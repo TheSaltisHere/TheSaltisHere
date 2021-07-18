@@ -1,6 +1,9 @@
 ### Hi there I'm Rishab👋 
-<a href="https://www.linkedin.com/in/rishab-chakrabarti-a009951b7/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50"></a>
-## Computer Engineering undergraduate (2024) with a keen interest in Artificial Intelligence and Machine Learning. Love Playing the Guitar. Strong operations professional with a Bachelor's degree focused in Computer Science from Thapar Institute of Engineering and Technology.Manchester United 🇾🇪 
+<img src="https://sdk.bitmoji.com/render/panel/f3af4143-e643-41dd-8d37-d6b376955106-d59442dd-eb7a-41b2-9bb4-5c67b8ecc26b-v1.png?transparent=1&palette=1" width="50">
+## Computer Engineering undergraduate (2024) with a keen interest in Artificial Intelligence and Machine Learning.
+##Love Playing the Guitar.
+##Strong operations professional with a Bachelor's degree focused in Computer Science from Thapar Institute of Engineering and Technology.
+##Manchester United 🇾🇪 
 
 
 
