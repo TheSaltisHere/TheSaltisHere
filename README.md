@@ -3,7 +3,7 @@
 -Computer Engineering undergraduate (2024) with a keen interest in Artificial Intelligence and Machine Learning.
 -Love Playing the Guitar.
 -Strong operations professional with a Bachelor's degree focused in Computer Science from Thapar Institute of Engineering and Technology.
--Manchester United Fan 
+ Manchester United Fan 
 
 
 
