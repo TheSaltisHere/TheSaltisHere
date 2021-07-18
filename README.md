@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - <a href="https://www.linkedin.com/in/rishab-chakrabarti-a009951b7/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50"></a>
   <a href="https://www.instagram.com/_rishab.8/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="50"></a>
   <a href="https://twitter.com/_TheSaltisHere_"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png" width="50"></a>
+  <a href="https://twitter.com/_TheSaltisHere_"><img src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" width="50"></a>
+
 - ⚡ Fun fact: Its hard being a United Fan all these years 
 
 ## Connect with me:
