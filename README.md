@@ -1,4 +1,4 @@
-### Hi there I'm Rishab. <img src="https://sdk.bitmoji.com/render/panel/f3af4143-e643-41dd-8d37-d6b376955106-d59442dd-eb7a-41b2-9bb4-5c67b8ecc26b-v1.png?transparent=1&palette=1" width="200" height="200">
+### Hi there I'm Rishab. <img src="https://sdk.bitmoji.com/render/panel/6ce76d26-9c7a-4fd2-8675-f5d4225363d6-94a05861-cee5-4de3-9ad2-b715e6886cba-v1.png?transparent=1&palette=1" width="200" height="200">
 <img align="centre" alt="GIF" src="https://media.giphy.com/media/IcZhFmufozDCij3p22/source.gif" width="1000" height="640" />
 
  Computer Engineering undergraduate (2024) with a keen interest in Artificial Intelligence and Machine Learning.
