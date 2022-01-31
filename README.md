@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dart/dart-original-wordmark.svg" alt="Dart" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
-
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/></a>
 
 
 
